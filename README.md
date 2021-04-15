@@ -1,0 +1,2 @@
+# sessaoinativa
+Sessões Inativas Oracle
